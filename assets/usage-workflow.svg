@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" font-family="Noto Sans CJK SC, 'Source Han Sans SC', sans-serif">
+  <rect width="960" height="220" fill="#FAF6EF"/>
+  <text x="480" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#1F1B16">三步上手 · Workflow</text>
+  <g>
+    <rect x="55" y="70" width="250" height="110" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <circle cx="90" cy="105" r="18" fill="#B23A2E"/>
+    <text x="90" y="112" text-anchor="middle" font-size="18" font-weight="700" fill="#FAF6EF">1</text>
+    <text x="120" y="110" font-size="19" font-weight="700" fill="#1F1B16">翻章节</text>
+    <text x="80" y="150" font-size="14" fill="#1F1B16">按中文索引定位主题</text>
+
+    <text x="348" y="132" text-anchor="middle" font-size="30" fill="#B23A2E">→</text>
+
+    <rect x="355" y="70" width="250" height="110" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <circle cx="390" cy="105" r="18" fill="#B23A2E"/>
+    <text x="390" y="112" text-anchor="middle" font-size="18" font-weight="700" fill="#FAF6EF">2</text>
+    <text x="420" y="110" font-size="19" font-weight="700" fill="#1F1B16">查速查表</text>
+    <text x="380" y="150" font-size="14" fill="#1F1B16">高频命令即查即用</text>
+
+    <text x="648" y="132" text-anchor="middle" font-size="30" fill="#B23A2E">→</text>
+
+    <rect x="655" y="70" width="250" height="110" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <circle cx="690" cy="105" r="18" fill="#B23A2E"/>
+    <text x="690" y="112" text-anchor="middle" font-size="18" font-weight="700" fill="#FAF6EF">3</text>
+    <text x="720" y="110" font-size="19" font-weight="700" fill="#1F1B16">上手练</text>
+    <text x="680" y="150" font-size="14" fill="#1F1B16">在真实终端中操练</text>
+  </g>
+</svg>

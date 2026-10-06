@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" font-family="Noto Sans CJK SC, 'Source Han Sans SC', sans-serif">
+  <rect width="960" height="260" fill="#FAF6EF"/>
+  <rect x="0" y="0" width="960" height="8" fill="#B23A2E"/>
+  <rect x="40" y="34" width="4" height="60" fill="#B23A2E"/>
+  <text x="60" y="78" font-size="46" font-weight="700" fill="#1F1B16">命令行艺术 · 中文版</text>
+  <text x="60" y="112" font-size="18" fill="#1F1B16">The Art of Command Line · 中文速查导读索引（Linux / macOS / Windows）</text>
+  <g font-size="15" fill="#1F1B16">
+    <rect x="150" y="150" width="120" height="34" rx="17" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+    <text x="210" y="172" text-anchor="middle" fill="#B23A2E" font-weight="700">140,000+ ★</text>
+    <rect x="286" y="150" width="96" height="34" rx="17" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+    <text x="334" y="172" text-anchor="middle" fill="#B23A2E" font-weight="700">9 章节</text>
+    <rect x="398" y="150" width="110" height="34" rx="17" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+    <text x="453" y="172" text-anchor="middle" fill="#B23A2E" font-weight="700">211 技巧</text>
+    <rect x="524" y="150" width="150" height="34" rx="17" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+    <text x="599" y="172" text-anchor="middle" fill="#B23A2E" font-weight="700">CC BY-NC-SA</text>
+  </g>
+  <text x="60" y="222" font-size="14" fill="#1F1B16" opacity="0.7">源自 jlevy/the-art-of-command-line（140,756 stars）· 本仓仅作中文导读索引，不含源文正文</text>
+</svg>

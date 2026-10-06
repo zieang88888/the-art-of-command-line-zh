@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" font-family="Noto Sans CJK SC, 'Source Han Sans SC', sans-serif">
+  <rect width="960" height="300" fill="#FAF6EF"/>
+  <text x="480" y="44" text-anchor="middle" font-size="24" font-weight="700" fill="#1F1B16">数据一览 · By the Numbers</text>
+  <g>
+    <rect x="45" y="70" width="204" height="180" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="147" y="150" text-anchor="middle" font-size="40" font-weight="700" fill="#B23A2E">140,756</text>
+    <text x="147" y="185" text-anchor="middle" font-size="16" fill="#1F1B16">GitHub Stars</text>
+    <text x="147" y="212" text-anchor="middle" font-size="13" fill="#1F1B16" opacity="0.7">API 实测 2026-10-06</text>
+
+    <rect x="267" y="70" width="204" height="180" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="369" y="150" text-anchor="middle" font-size="40" font-weight="700" fill="#B23A2E">9</text>
+    <text x="369" y="185" text-anchor="middle" font-size="16" fill="#1F1B16">内容章节</text>
+    <text x="369" y="212" text-anchor="middle" font-size="13" fill="#1F1B16" opacity="0.7">含 Meta 元说明</text>
+
+    <rect x="489" y="70" width="204" height="180" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="591" y="150" text-anchor="middle" font-size="40" font-weight="700" fill="#B23A2E">211</text>
+    <text x="591" y="185" text-anchor="middle" font-size="16" fill="#1F1B16">技巧 / 命令条目</text>
+    <text x="591" y="212" text-anchor="middle" font-size="13" fill="#1F1B16" opacity="0.7">逐章顶层列表计数</text>
+
+    <rect x="711" y="70" width="204" height="180" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="813" y="150" text-anchor="middle" font-size="40" font-weight="700" fill="#B23A2E">3</text>
+    <text x="813" y="185" text-anchor="middle" font-size="16" fill="#1F1B16">平台覆盖</text>
+    <text x="813" y="212" text-anchor="middle" font-size="13" fill="#1F1B16" opacity="0.7">Linux · macOS · Windows</text>
+  </g>
+</svg>
